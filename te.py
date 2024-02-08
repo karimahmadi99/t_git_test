@@ -12,11 +12,14 @@ while True:
     elif o == "karim":
         print("hello admin: " + o)
 
-print("hello")
-print("hello")
-print("hello")
-print("hello")
-print("hello")
-print("hello")
-print("hello")
-print("hello")
+
+print("+++++++++++++++++++++++++")
+print("+++++++++++++++++++++++++")
+print("+++++++++++++++++++++++++")
+print("+++++++++++++++++++++++++")
+print("+++++++++++++++++++++++++")
+print("+++++++++++++++++++++++++")
+print("+++++++++++++++++++++++++")
+print("+++++++++++++++++++++++++")
+print("+++++++++++++++++++++++++")
+print("+++++++++++++++++++++++++")

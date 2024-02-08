@@ -6,8 +6,17 @@ print(rr)
 
 while True:
     o = input("what: ")
-    print(o)
+    print("hello: " + o)
     if o == 'no':
         break
+    elif o == "karim":
+        print("hello admin: " + o)
 
+print("hello")
+print("hello")
+print("hello")
+print("hello")
+print("hello")
+print("hello")
+print("hello")
 print("hello")

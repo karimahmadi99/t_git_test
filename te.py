@@ -22,3 +22,15 @@ class Ali:
     def r(self):
         login = self.name + " " + str(self.age) + " " + str(self.date)
         return login
+
+print("what is your name")
+print("what is your name")
+print("what is your name")
+print("what is your name")
+print("what is your name")
+print("what is your name")
+print("what is your name")
+print("what is your name")
+print("what is your name")
+print("what is your name")
+print("what is your name")v

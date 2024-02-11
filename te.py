@@ -13,9 +13,12 @@ while True:
         print("hello admin: " + o)
 
 
-print("+++++++++++++++++++++++++")
-print("+++++++++++++++++++++++++")
-print("+++++++++++++++++++++++++")
-print("+++++++++++++++++++++++++")
-print("+++++++++++++++++++++++++")
-er = "ddddddd"
+class Ali:
+    def __init__(self, name, age, date):
+        self.name = name
+        self.age = age
+        self.date = date
+
+    def r(self):
+        login = self.name + " " + str(self.age) + " " + str(self.date)
+        return login
